@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=cyberpunk&height=220&section=header&text=Hi%20there,%20I'm%20Muhammad%20👋&fontSize=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:021a54,1a52b8&height=220&section=header&text=Hi%20there,%20I'm%20Muhammad%20👋&fontSize=35&animation=fadeIn" width="100%" />
   
   <p align="center">
     🎓 <b>Informatics Student @ Universitas Amikom Yogyakarta</b><br>
@@ -133,5 +133,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=cyberpunk&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:021a54,1a52b8&height=80&section=footer" width="100%" />
 </div>
